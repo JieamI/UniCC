@@ -1,0 +1,18 @@
+{
+  "namespace": "uni-join",
+  "assets": {
+    "header": "https://cdn.jsdelivr.net/gh/JieamI/UniCC@main/assets/uni-join/token.jpg",
+    "timeline": "https://cdn.jsdelivr.net/gh/JieamI/UniCC@main/assets/uni-join/时间线.jpg",
+    "posters": [
+      "https://cdn.jsdelivr.net/gh/JieamI/UniCC@main/assets/uni-join/技术部.jpg",
+      "https://cdn.jsdelivr.net/gh/JieamI/UniCC@main/assets/uni-join/产品部.jpg",
+      "https://cdn.jsdelivr.net/gh/JieamI/UniCC@main/assets/uni-join/人力资源部.jpg",
+      "https://cdn.jsdelivr.net/gh/JieamI/UniCC@main/assets/uni-join/设计部.jpg",
+      "https://cdn.jsdelivr.net/gh/JieamI/UniCC@main/assets/uni-join/新媒体运营.jpg",
+      "https://cdn.jsdelivr.net/gh/JieamI/UniCC@main/assets/uni-join/产品运营.jpg",
+      "https://cdn.jsdelivr.net/gh/JieamI/UniCC@main/assets/uni-join/杂志部.jpg"
+    ],
+    "joinBtn": "https://cdn.jsdelivr.net/gh/JieamI/UniCC@main/assets/uni-join/加入.png"
+  },
+  "joinLink": "https://www.baidu.com"
+}
